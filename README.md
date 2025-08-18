@@ -1,2 +1,2 @@
 # the-Forge
-prac git and git hub
+Day 0:The Forge is build
